@@ -7,7 +7,10 @@ git remote add origin https://github.com/RahulNivas/javabatch1.git
 git push -u origin main
 
 
+{
 
+    void main()
+}
 
 
 git remote add origin https://github.com/RahulNivas/javabatch1.git
